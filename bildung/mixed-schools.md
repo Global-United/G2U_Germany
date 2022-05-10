@@ -44,19 +44,19 @@ Für jeden Kurs sollten Mentoren Verfügbar sein welche bei Bedarf für Fragen z
 Sobald jemand an einem Kurs teilnimmt schreitet man fort sobald der einzelner nicht fest definierte, angepasste Ziele erreicht. So ist flexibilität gegeben und die ursprüngliche Bewertung wird zur Reflektion.
 Das Konzept von Klassenstufen wird aufgehoben, jeder kann die Kurse altersunabhängig besuchen. Dies erlaubt ein "jeder lernt von jedem" prinzip zu etablieren.
 
-## Mentoren
+## `Mentoren`
 
 Lehrer werden zu Mentoren, sie stellen Material bereit, recherchieren, beantworten Fragen, organisieren Workshops und Ausflüge. Dadurch bleibt mehr Zeit für individuelle Betreuung und der Stress sinkt ab.
 
-## Shadow
+## `Shadow`
 
 Jeder Schüler bekommt einen sogenannten "Schatten" oder auch Paten zugewiesen, dieser hilft besonders in der Anfangszeit weiter.
 
-## Technologie
+## `Technologie`
 
 Das System kann durch technologie erweitert werden, so könnte es zum Beispiel für jeden Kurs eine Chatgruppe geben.
 
-## Schulübergreifendes Wiki
+## `Schulübergreifendes Wiki`
 
 Wissen muss man nicht ständig neu erfinden, ein Schulübergreifendes globales Wiki speichert alles was die Schüler zusammentragen, jeder kann darauf zugreifen und es nutzen oder gar erweitern/ergänzen. Die Mentoren und Schüler die weiter Fortgeschritten sind moderieren das ganze Gemeinschaftlich.
 
