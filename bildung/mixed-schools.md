@@ -44,17 +44,29 @@ Für jeden Kurs sollten Mentoren Verfügbar sein welche bei Bedarf für Fragen z
 Sobald jemand an einem Kurs teilnimmt schreitet man fort sobald der einzelner nicht fest definierte, angepasste Ziele erreicht. So ist flexibilität gegeben und die ursprüngliche Bewertung wird zur Reflektion.
 Das Konzept von Klassenstufen wird aufgehoben, jeder kann die Kurse altersunabhängig besuchen. Dies erlaubt ein "jeder lernt von jedem" prinzip zu etablieren.
 
+## `Noten`
+
+Die Benotung der lernenden hat viele Effekte, egal ob die Note "Gut" oder "Schlecht" ist, nimmt diese Einfluss auf den lernenden und kann individuell entweder Motivierend oder Demotivierend wirken. Im Grunde bewerten wir im aktuellen System nur, ob eine Aufgabe erfüllt wurde oder etwa nicht. Es gibt mit Sicherheit bessere Wege jemandem Fehler aufzuzeigen.
+
+## `Reflektion lehren`
+
+Durch Reflektion lernen wir, anstatt also eine Zahl von 1-6 auf einen Zettel zu schreiben und zu Loben, könnten wir zu einem System übergehen bei dem der lernende sich selbst reflektieren lernt. Faktenorientiert. Lösungsorientiert. Es muss wieder in die Köpfe, dass es okay ist Fehler zu machen, nicht Perfekt zu sein. 
+
+## `Klassen`
+
+Die Klassenstufen sind zu statisch für unsere dynamische Welt. Warum sollte ein Mensch von 10 Jahren nicht von einem 14 Jährigem Menschen etwas lernen können? Oder umgekehrt? Stört es irgendjemanden wirklich wenn verschiedene Altersgruppen die sich für dasselbe Thema begeistern zusammen lernen? Wir müssen lediglich das Material bereitstellen und die Optionen, die Möglichkeiten die es in einem Fachbereich gibt aufzeigen, starre und feste Stundenpläne aufheben soweit es Möglich ist. Freiheiten schaffen.
+
 ## `Mentoren`
 
 Lehrer werden zu Mentoren, sie stellen Material bereit, recherchieren, beantworten Fragen, organisieren Workshops und Ausflüge. Dadurch bleibt mehr Zeit für individuelle Betreuung und der Stress sinkt ab.
 
 ## `Shadow`
 
-Jeder Schüler bekommt einen sogenannten "Schatten" oder auch Paten zugewiesen, dieser hilft besonders in der Anfangszeit weiter.
+Jeder Schüler bekommt einen sogenannten "Schatten" oder auch Paten zugewiesen, dieser hilft besonders in der Anfangszeit weiter. 
 
 ## `Technologie`
 
-Das System kann durch technologie erweitert werden, so könnte es zum Beispiel für jeden Kurs eine Chatgruppe geben.
+Das System kann durch Technologie erweitert werden, so könnte es zum Beispiel für jeden Kurs eine Chatgruppe geben, Unternehmen könnten die Schulen erweitern. Die Jungen Menschen ihre Schule selbstständig entwickeln, sich einbringen.
 
 ## `Schulübergreifendes Wiki`
 
